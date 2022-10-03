@@ -1,3 +1,6 @@
 html, body, h1, h2, h3, h4, h5, p, b, strong, span, ul, li {
   font-family: "SF Pro Text", "SF Pro Display", "A-OTF UD Shin Go Pr6N", system-ui;
 }
+code {
+  font-family: "SF Mono", system-ui;
+}
