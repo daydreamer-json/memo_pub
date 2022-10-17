@@ -1,0 +1,164 @@
+{
+  "voice": [
+    {
+      "voice": "jp_001",
+      "desc": "Japanese - Female 1"
+    },
+    {
+      "voice": "jp_003",
+      "desc": "Japanese - Female 2"
+    },
+    {
+      "voice": "jp_005",
+      "desc": "Japanese - Female 3"
+    },
+    {
+      "voice": "jp_006",
+      "desc": "Japanese - Male"
+    },
+    {
+      "voice": "en_us_001",
+      "desc": "English US - Female"
+    },
+    {
+      "voice": "en_us_006",
+      "desc": "English US - Male 1"
+    },
+    {
+      "voice": "en_us_007",
+      "desc": "English US - Male 2"
+    },
+    {
+      "voice": "en_us_009",
+      "desc": "English US - Male 3"
+    },
+    {
+      "voice": "en_us_010",
+      "desc": "English US - Male 4"
+    },
+    {
+      "voice": "en_uk_001",
+      "desc": "English UK - Male 1"
+    },
+    {
+      "voice": "en_uk_003",
+      "desc": "English UK - Male 2"
+    },
+    {
+      "voice": "en_au_001",
+      "desc": "English AU - Female"
+    },
+    {
+      "voice": "en_au_002",
+      "desc": "English AU - Male"
+    },
+    {
+      "voice": "fr_001",
+      "desc": "French - Male 1"
+    },
+    {
+      "voice": "fr_002",
+      "desc": "French - Male 2"
+    },
+    {
+      "voice": "de_001",
+      "desc": "German - Female"
+    },
+    {
+      "voice": "de_002",
+      "desc": "German - Male"
+    },
+    {
+      "voice": "es_002",
+      "desc": "Spanish - Male"
+    },
+    {
+      "voice": "es_mx_002",
+      "desc": "Spanish MX- Male"
+    },
+    {
+      "voice": "br_003",
+      "desc": "Portuguese BR - Female 2"
+    },
+    {
+      "voice": "br_004",
+      "desc": "Portuguese BR - Female 3"
+    },
+    {
+      "voice": "br_005",
+      "desc": "Portuguese BR - Male"
+    },
+    {
+      "voice": "id_001",
+      "desc": "Indonesian - Female"
+    },
+    {
+      "voice": "kr_002",
+      "desc": "Korean - Male 1"
+    },
+    {
+      "voice": "kr_004",
+      "desc": "Korean - Male 2"
+    },
+    {
+      "voice": "kr_003",
+      "desc": "Korean - Female"
+    },
+    {
+      "voice": "en_us_ghostface",
+      "desc": "Character EN - Ghostface (Scream)"
+    },
+    {
+      "voice": "en_us_chewbacca",
+      "desc": "Character EN - Chewbacca (Star Wars)"
+    },
+    {
+      "voice": "en_us_c3po",
+      "desc": "Character EN - C3PO (Star Wars)"
+    },
+    {
+      "voice": "en_us_stormtrooper",
+      "desc": "Character EN - Stormtrooper (Star Wars)"
+    },
+    {
+      "voice": "en_us_stitch",
+      "desc": "Character EN - Stitch (Lilo & Stitch)"
+    },
+    {
+      "voice": "en_us_rocket",
+      "desc": "Character EN - Rocket (Guardians of the Galaxy)"
+    },
+    {
+      "voice": "en_female_f08_salut_damour",
+      "desc": "Singing EN - Salut Damour"
+    },
+    {
+      "voice": "en_male_m03_lobby",
+      "desc": "Singing EN - Lobby"
+    },
+    {
+      "voice": "en_male_m03_sunshine_soon",
+      "desc": "Singing EN - Sunshine Soon"
+    },
+    {
+      "voice": "en_female_f08_warmy_breeze",
+      "desc": "Singing EN - Warmy Breeze"
+    },
+    {
+      "voice": "en_female_ht_f08_glorious",
+      "desc": "Singing EN - Glorious"
+    },
+    {
+      "voice": "en_male_sing_funny_it_goes_up",
+      "desc": "Singing EN - It Goes Up"
+    },
+    {
+      "voice": "en_male_m2_xhxs_m03_silly",
+      "desc": "Singing EN - Silly"
+    },
+    {
+      "voice": "en_female_ht_f08_wonderful_world",
+      "desc": "Singing EN - Wonderful World"
+    }
+  ]
+}
